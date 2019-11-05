@@ -1,0 +1,869 @@
+fileFormatVersion: 2
+guid: b05aa24bfbcd09449aaf1e0831f7e73e
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_bodyPart_0_skeleton_model_body_skeleton_model_skeleton_model_charMat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_100Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_101Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_102Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_103Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_104Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_105Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_106Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_107Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_108Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_109Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_10Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_110Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_111Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_112Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_113Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_114Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_115Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_116Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_117Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_118Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_119Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_11Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_120Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_121Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_122Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_123Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_124Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_125Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_126Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_127Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_128Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_129Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_12Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_130Mat
+    second: {fileID: 2100000, guid: 9c41a187cb572fd44b21b96afb2112df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_131Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_132Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_133Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_134Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_135Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_136Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_137Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_138Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_139Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_13Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_140Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_141Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_142Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_143Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_144Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_145Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_146Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_147Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_148Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_14Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_15Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_16Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_17Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_18Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_19Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_1Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_20Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_21Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_22Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_23Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_24Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_25Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_26Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_27Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_28Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_29Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_2Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_30Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_31Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_32Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_33Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_34Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_35Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_36Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_37Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_38Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_39Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_3Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_40Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_41Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_42Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_43Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_44Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_45Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_46Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_47Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_48Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_49Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_4Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_50Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_51Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_52Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_53Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_54Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_55Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_56Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_57Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_58Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_59Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_5Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_60Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_61Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_62Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_63Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_64Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_65Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_66Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_67Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_68Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_69Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_6Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_70Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_71Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_72Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_73Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_74Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_75Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_76Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_77Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_78Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_79Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_7Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_80Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_81Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_82Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_83Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_84Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_85Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_86Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_87Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_88Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_89Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_8Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_90Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_91Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_92Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_93Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_94Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_95Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_96Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_97Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_98Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_99Mat
+    second: {fileID: 2100000, guid: 025941cd030c5a242aa11b1cef00de1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_body_skeleton_model_skeleton_model_char_skeleton_model_bodyPart_9Mat
+    second: {fileID: 2100000, guid: 5f1d9ff8a876d074595989021ad4f5d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_skeleton_model_char_skeleton_model_eye_lftMat
+    second: {fileID: 2100000, guid: 93d5589e447352c468e21f6c66017de3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_skeleton_model_char_skeleton_model_eye_rgtMat
+    second: {fileID: 2100000, guid: 93d5589e447352c468e21f6c66017de3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_skeleton_model_char_skeleton_model_headMat
+    second: {fileID: 2100000, guid: 5f1d9ff8a876d074595989021ad4f5d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_skeleton_model_char_skeleton_model_jawMat
+    second: {fileID: 2100000, guid: 5f1d9ff8a876d074595989021ad4f5d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_skeleton_model_char_skeleton_model_teeth_lowerMat
+    second: {fileID: 2100000, guid: 5a5ec4d4b0ed82045a4b97436ea21942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skeleton_model_skeleton_model_char_skeleton_model_teeth_upperMat
+    second: {fileID: 2100000, guid: 5a5ec4d4b0ed82045a4b97436ea21942, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -21,7 +21,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
   sceneClasses:
-    Assets/Scenes/SampleScene.unity:
+    Assets/Scenes/MainScene.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -49,31 +49,31 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9678}
+      Script: {instanceID: 9680}
     - Class: 114
-      Script: {instanceID: 9890}
+      Script: {instanceID: 9892}
     - Class: 114
-      Script: {instanceID: 9926}
+      Script: {instanceID: 9928}
     - Class: 114
-      Script: {instanceID: 10070}
+      Script: {instanceID: 10072}
     - Class: 114
-      Script: {instanceID: 10240}
+      Script: {instanceID: 10242}
     - Class: 114
-      Script: {instanceID: 10556}
+      Script: {instanceID: 10558}
     - Class: 114
-      Script: {instanceID: 10944}
+      Script: {instanceID: 10946}
     - Class: 114
-      Script: {instanceID: 11102}
+      Script: {instanceID: 11104}
     - Class: 114
-      Script: {instanceID: 11208}
+      Script: {instanceID: 11210}
     - Class: 114
-      Script: {instanceID: 11234}
+      Script: {instanceID: 11238}
     - Class: 114
-      Script: {instanceID: 11292}
+      Script: {instanceID: 11296}
     - Class: 114
-      Script: {instanceID: 11402}
+      Script: {instanceID: 11406}
     - Class: 114
-      Script: {instanceID: 11530}
+      Script: {instanceID: 11534}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -331,7 +331,7 @@ ScriptsOnlyBuild:
     className: SignalTrack
   - hash:
       serializedVersion: 2
-      Hash: 5bd6821fbdff6007e23b8034d88bcec8
+      Hash: 3d8bbbbcf930e16c0ae6d9f88590ed63
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ARTapToPlaceAtCamera
@@ -613,6 +613,6 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 13
   scenePathNames:
-  - Assets/Scenes/SampleScene.unity
+  - Assets/Scenes/MainScene.unity
   playerPath: C:/Users/HP/Documents/GitHub/Locker-Xray-Viewer/IMS 461 - Sprint 2 Project/Locker
     Xray Viewer.apk

@@ -62,9 +62,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ARTapToPlaceAtCamera.cs" />
-    <Compile Include="Assets\ARTapToPlaceObject.cs" />
-    <None Include="Assets\DepthMask.shader" />
+    <Compile Include="Assets\Resources\ARTapToPlaceAtCamera.cs" />
+    <Compile Include="Assets\Resources\ARTapToPlaceObject.cs" />
+    <None Include="Assets\Resources\DepthMask.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/HP/Documents/GitHub/Locker-Xray-Viewer/IMS 461 - Sprint 2 Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

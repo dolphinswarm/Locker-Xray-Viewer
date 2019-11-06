@@ -13,13 +13,13 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.ARFoundation.ARSessionOrigin
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.SpatialTracking.dll:
     - UnityEngine.SpatialTracking.TrackedPoseDriver
     UnityEngine.UI.dll:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
+    - UnityEngine.UI.Text
   sceneClasses:
     Assets/Scenes/MainScene.unity:
     - Class: 1
@@ -42,7 +42,13 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 64
       Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
     - Class: 89
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 95
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -50,6 +56,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 9680}
+    - Class: 114
+      Script: {instanceID: 9850}
     - Class: 114
       Script: {instanceID: 9892}
     - Class: 114
@@ -67,14 +75,16 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11210}
     - Class: 114
-      Script: {instanceID: 11238}
+      Script: {instanceID: 11236}
     - Class: 114
-      Script: {instanceID: 11296}
+      Script: {instanceID: 11294}
     - Class: 114
-      Script: {instanceID: 11406}
+      Script: {instanceID: 11404}
     - Class: 114
-      Script: {instanceID: 11534}
+      Script: {instanceID: 11532}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -331,7 +341,7 @@ ScriptsOnlyBuild:
     className: SignalTrack
   - hash:
       serializedVersion: 2
-      Hash: 3d8bbbbcf930e16c0ae6d9f88590ed63
+      Hash: ec3304c0244ccf12dd52f98d9f62f809
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ARTapToPlaceAtCamera
